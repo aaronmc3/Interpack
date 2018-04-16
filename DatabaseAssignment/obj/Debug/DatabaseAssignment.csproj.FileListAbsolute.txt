@@ -1,0 +1,5 @@
+\\ad2\aaronmcewen\Documents\Visual Studio 2010\Projects\DatabaseAssignment\DatabaseAssignment\bin\DatabaseAssignment.dll
+\\ad2\aaronmcewen\Documents\Visual Studio 2010\Projects\DatabaseAssignment\DatabaseAssignment\bin\DatabaseAssignment.pdb
+\\ad2\aaronmcewen\Documents\Visual Studio 2010\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\ResolveAssemblyReference.cache
+\\ad2\aaronmcewen\Documents\Visual Studio 2010\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.dll
+\\ad2\aaronmcewen\Documents\Visual Studio 2010\Projects\DatabaseAssignment\DatabaseAssignment\obj\Debug\DatabaseAssignment.pdb
